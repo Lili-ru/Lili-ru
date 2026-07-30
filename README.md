@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lineth Rumbos</h1>
-<h3 align="center">Data Analyst & Junior BI Developer passionate about turning data into strategic business solutions 📊</h3>
+<h3 align="center">Data Analyst & Junior BI Developer passionate about turning global data into strategic business & risk solutions 🌐📊</h3>
 
-- 🔭 I’m currently working on **End-to-End Business Intelligence & Data Analytics Projects**
-- 🌱 I’m currently learning **Advanced SQL, DAX & Data Modeling (Kimball Methodology)**
-- 💬 Ask me about **Python, SQL, Power BI, Pandas & Data Cleaning**
+- 🔭 I’m currently working on **End-to-End Business Intelligence & International Market/Risk Analytics**
+- 🌱 I’m currently learning **Advanced SQL, DAX, Data Modeling (Kimball) & Global Data Frameworks**
+- 🌍 Interested in **Geopolitics, International Relations, Risk Consulting & Global Trade Analysis**
+- 💬 Ask me about **Python, SQL, Power BI, Pandas, Data Cleaning & Cross-Border Datasets**
 - 📫 How to reach me **rumboslineth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
