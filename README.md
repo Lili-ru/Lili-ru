@@ -46,8 +46,3 @@
   </a> 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lili-ru&show_icons=true&theme=radical" alt="Lili-ru" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lili-ru&layout=compact&theme=radical" alt="Lili-ru" height="150" />
-</p>
